@@ -1,8 +1,8 @@
-Q1. Which of the following is the main purpose of a communication system?
-A) To increase power of a signal
-B) To enable transmission of information from one point to another
-C) To store signals for later use
-D) To reduce the size of data
+Q1. The process of producing energy by utilizing heat trapped inside the earth surface is called _________
+A) Hydrothermal energy
+B) geothermal energy
+C) Solar energy
+D) Wave energy
 Answer: B
 
 Q2. Which block of a communication system is responsible for converting information into electrical signals?
